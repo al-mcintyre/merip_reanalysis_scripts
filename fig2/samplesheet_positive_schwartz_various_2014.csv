@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+shGFP_IP_1,A549,cells,shGFP,uninfected,1,data/schwartz_various_2014/alignments/shGFP_IP_1.star.sorted.bam,data/schwartz_various_2014/macs2_results/shGFP_1.macs2_peaks.narrowPeak.peaks.bed,IP
+shGFP_input_1,A549,cells,shGFP,uninfected,1,data/schwartz_various_2014/alignments/shGFP_input_1.star.sorted.bam,data/schwartz_various_2014/macs2_results/shGFP_1.macs2_peaks.narrowPeak.peaks.bed,input
+shGFP_IP_2,A549,cells,shGFP,uninfected,2,data/schwartz_various_2014/alignments/shGFP_IP_2.star.sorted.bam,data/schwartz_various_2014/macs2_results/shGFP_2.macs2_peaks.narrowPeak.peaks.bed,IP
+shGFP_input_2,A549,cells,shGFP,uninfected,2,data/schwartz_various_2014/alignments/shGFP_input_2.star.sorted.bam,data/schwartz_various_2014/macs2_results/shGFP_2.macs2_peaks.narrowPeak.peaks.bed,input
+shWTAP_IP_1,A549,cells,shWTAP,uninfected,1,data/schwartz_various_2014/alignments/shWTAP_IP_1.star.sorted.bam,data/schwartz_various_2014/macs2_results/shWTAP_1.macs2_peaks.narrowPeak.peaks.bed,IP
+shWTAP_input_1,A549,cells,shWTAP,uninfected,1,data/schwartz_various_2014/alignments/shWTAP_input_1.star.sorted.bam,data/schwartz_various_2014/macs2_results/shWTAP_1.macs2_peaks.narrowPeak.peaks.bed,input
+shWTAP_IP_2,A549,cells,shWTAP,uninfected,2,data/schwartz_various_2014/alignments/shWTAP_IP_2.star.sorted.bam,data/schwartz_various_2014/macs2_results/shWTAP_2.macs2_peaks.narrowPeak.peaks.bed,IP
+shWTAP_input_2,A549,cells,shWTAP,uninfected,2,data/schwartz_various_2014/alignments/shWTAP_input_2.star.sorted.bam,data/schwartz_various_2014/macs2_results/shWTAP_2.macs2_peaks.narrowPeak.peaks.bed,input

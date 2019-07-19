@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+mock_IP_1,HEK-TIA1,cells,control,uninfected,1,data/anders_stress_2018/alignments/mock_IP_1.star.sorted.bam,data/anders_stress_2018/macs2_results/mock_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_1,HEK-TIA1,cells,control,uninfected,1,data/anders_stress_2018/alignments/mock_input_1.star.sorted.bam,data/anders_stress_2018/macs2_results/mock_1.macs2_peaks.narrowPeak.peaks.bed,input
+mock_IP_2,HEK-TIA1,cells,control,uninfected,2,data/anders_stress_2018/alignments/mock_IP_2.star.sorted.bam,data/anders_stress_2018/macs2_results/mock_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_2,HEK-TIA1,cells,control,uninfected,2,data/anders_stress_2018/alignments/mock_input_2.star.sorted.bam,data/anders_stress_2018/macs2_results/mock_2.macs2_peaks.narrowPeak.peaks.bed,input
+stress_IP_1,HEK-TIA1,cells,stress,uninfected,1,data/anders_stress_2018/alignments/stress_IP_1.star.sorted.bam,data/anders_stress_2018/macs2_results/stress_1.macs2_peaks.narrowPeak.peaks.bed,IP
+stress_input_1,HEK-TIA1,cells,stress,uninfected,1,data/anders_stress_2018/alignments/stress_input_1.star.sorted.bam,data/anders_stress_2018/macs2_results/stress_1.macs2_peaks.narrowPeak.peaks.bed,input
+stress_IP_2,HEK-TIA1,cells,stress,uninfected,2,data/anders_stress_2018/alignments/stress_IP_2.star.sorted.bam,data/anders_stress_2018/macs2_results/stress_2.macs2_peaks.narrowPeak.peaks.bed,IP
+stress_input_2,HEK-TIA1,cells,stress,uninfected,2,data/anders_stress_2018/alignments/stress_input_2.star.sorted.bam,data/anders_stress_2018/macs2_results/stress_2.macs2_peaks.narrowPeak.peaks.bed,input

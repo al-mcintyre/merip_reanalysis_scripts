@@ -1,0 +1,2 @@
+# chr	chromStart	chromEnd	name	score	strand	thickStart	thickEnd	itemRgb	blockCount	blockSizes	blockStarts
+chr15	85760616	85760866	ENSG00000183655.12	3.3e-189	-	85760616	85760866	0	1	250,	0

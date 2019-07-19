@@ -1,0 +1,3 @@
+study condition reps control stimulus species readlen fraglen pe
+lichinchi_hiv_2016 HIV 2 mock hiv hg38 48 130 FALSE
+tirumuru_hiv_2016 HIV 2 jurkat_mock jurkat_hiv hg38 49 100 FALSE

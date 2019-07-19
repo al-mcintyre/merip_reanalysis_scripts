@@ -1,0 +1,13 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+wt_IP_1,neurospheres,cells,control,uninfected,1,data/li_ythdf2_2018/alignments/wt_IP_1.star.sorted.bam,data/li_ythdf2_2018/macs2_results/wt_1.macs2_peaks.narrowPeak.peaks.bed,IP
+wt_input_1,neurospheres,cells,control,uninfected,1,data/li_ythdf2_2018/alignments/wt_input_1.star.sorted.bam,data/li_ythdf2_2018/macs2_results/wt_1.macs2_peaks.narrowPeak.peaks.bed,input
+wt_IP_2,neurospheres,cells,control,uninfected,2,data/li_ythdf2_2018/alignments/wt_IP_2.star.sorted.bam,data/li_ythdf2_2018/macs2_results/wt_2.macs2_peaks.narrowPeak.peaks.bed,IP
+wt_input_2,neurospheres,cells,control,uninfected,2,data/li_ythdf2_2018/alignments/wt_input_2.star.sorted.bam,data/li_ythdf2_2018/macs2_results/wt_2.macs2_peaks.narrowPeak.peaks.bed,input
+wt_IP_3,neurospheres,cells,control,uninfected,3,data/li_ythdf2_2018/alignments/wt_IP_3.star.sorted.bam,data/li_ythdf2_2018/macs2_results/wt_3.macs2_peaks.narrowPeak.peaks.bed,IP
+wt_input_3,neurospheres,cells,control,uninfected,3,data/li_ythdf2_2018/alignments/wt_input_3.star.sorted.bam,data/li_ythdf2_2018/macs2_results/wt_3.macs2_peaks.narrowPeak.peaks.bed,input
+ythdf2ko_IP_1,neurospheres,cells,ythdf2ko,infected,1,data/li_ythdf2_2018/alignments/ythdf2ko_IP_1.star.sorted.bam,data/li_ythdf2_2018/macs2_results/ythdf2ko_1.macs2_peaks.narrowPeak.peaks.bed,IP
+ythdf2ko_input_1,neurospheres,cells,ythdf2ko,infected,1,data/li_ythdf2_2018/alignments/ythdf2ko_input_1.star.sorted.bam,data/li_ythdf2_2018/macs2_results/ythdf2ko_1.macs2_peaks.narrowPeak.peaks.bed,input
+ythdf2ko_IP_2,neurospheres,cells,ythdf2ko,infected,2,data/li_ythdf2_2018/alignments/ythdf2ko_IP_2.star.sorted.bam,data/li_ythdf2_2018/macs2_results/ythdf2ko_2.macs2_peaks.narrowPeak.peaks.bed,IP
+ythdf2ko_input_2,neurospheres,cells,ythdf2ko,infected,2,data/li_ythdf2_2018/alignments/ythdf2ko_input_2.star.sorted.bam,data/li_ythdf2_2018/macs2_results/ythdf2ko_2.macs2_peaks.narrowPeak.peaks.bed,input
+ythdf2ko_IP_3,neurospheres,cells,ythdf2ko,infected,3,data/li_ythdf2_2018/alignments/ythdf2ko_IP_3.star.sorted.bam,data/li_ythdf2_2018/macs2_results/ythdf2ko_3.macs2_peaks.narrowPeak.peaks.bed,IP
+ythdf2ko_input_3,neurospheres,cells,ythdf2ko,infected,3,data/li_ythdf2_2018/alignments/ythdf2ko_input_3.star.sorted.bam,data/li_ythdf2_2018/macs2_results/ythdf2ko_3.macs2_peaks.narrowPeak.peaks.bed,input

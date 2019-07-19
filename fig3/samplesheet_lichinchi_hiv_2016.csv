@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+mock_IP_1,CD4,cells,mock,uninfected,1,data/lichinchi_hiv_2016/alignments/mock_IP_1.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/mock_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_1,CD4,cells,mock,uninfected,1,data/lichinchi_hiv_2016/alignments/mock_input_1.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/mock_1.macs2_peaks.narrowPeak.peaks.bed,input
+mock_IP_2,CD4,cells,mock,uninfected,2,data/lichinchi_hiv_2016/alignments/mock_IP_2.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/mock_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_2,CD4,cells,mock,uninfected,2,data/lichinchi_hiv_2016/alignments/mock_input_2.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/mock_2.macs2_peaks.narrowPeak.peaks.bed,input
+hiv_IP_1,CD4,cells,hiv,infected,1,data/lichinchi_hiv_2016/alignments/hiv_IP_1.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/hiv_1.macs2_peaks.narrowPeak.peaks.bed,IP
+hiv_input_1,CD4,cells,hiv,infected,1,data/lichinchi_hiv_2016/alignments/hiv_input_1.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/hiv_1.macs2_peaks.narrowPeak.peaks.bed,input
+hiv_IP_2,CD4,cells,hiv,infected,2,data/lichinchi_hiv_2016/alignments/hiv_IP_2.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/hiv_2.macs2_peaks.narrowPeak.peaks.bed,IP
+hiv_input_2,CD4,cells,hiv,infected,2,data/lichinchi_hiv_2016/alignments/hiv_input_2.star.sorted.bam,data/lichinchi_hiv_2016/macs2_results2/hiv_2.macs2_peaks.narrowPeak.peaks.bed,input

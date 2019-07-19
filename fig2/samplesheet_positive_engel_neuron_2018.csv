@@ -1,0 +1,13 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+wt_IP_1,mouse_cortex,cells,wt,uninfected,1,data/engel_neuron_2018/alignments/wt_IP_1.star.sorted.bam,data/engel_neuron_2018/macs2_results2/wt_1.macs2_peaks.narrowPeak.peaks.bed,IP
+wt_input_1,mouse_cortex,cells,wt,uninfected,1,data/engel_neuron_2018/alignments/wt_input_1.star.sorted.bam,data/engel_neuron_2018/macs2_results2/wt_1.macs2_peaks.narrowPeak.peaks.bed,input
+wt_IP_2,mouse_cortex,cells,wt,uninfected,2,data/engel_neuron_2018/alignments/wt_IP_2.star.sorted.bam,data/engel_neuron_2018/macs2_results2/wt_2.macs2_peaks.narrowPeak.peaks.bed,IP
+wt_input_2,mouse_cortex,cells,wt,uninfected,2,data/engel_neuron_2018/alignments/wt_input_2.star.sorted.bam,data/engel_neuron_2018/macs2_results2/wt_2.macs2_peaks.narrowPeak.peaks.bed,input
+wt_IP_3,mouse_cortex,cells,wt,uninfected,3,data/engel_neuron_2018/alignments/wt_IP_3.star.sorted.bam,data/engel_neuron_2018/macs2_results2/wt_3.macs2_peaks.narrowPeak.peaks.bed,IP
+wt_input_3,mouse_cortex,cells,wt,uninfected,3,data/engel_neuron_2018/alignments/wt_input_3.star.sorted.bam,data/engel_neuron_2018/macs2_results2/wt_3.macs2_peaks.narrowPeak.peaks.bed,input
+mettl3cko_IP_1,mouse_cortex,cells,Mettl3cKO,uninfected,1,data/engel_neuron_2018/alignments/mettl3cko_IP_1.star.sorted.bam,data/engel_neuron_2018/macs2_results2/mettl3cko_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl3cko_input_1,mouse_cortex,cells,Mettl3cKO,uninfected,1,data/engel_neuron_2018/alignments/mettl3cko_input_1.star.sorted.bam,data/engel_neuron_2018/macs2_results2/mettl3cko_1.macs2_peaks.narrowPeak.peaks.bed,input
+mettl3cko_IP_2,mouse_cortex,cells,Mettl3cKO,uninfected,2,data/engel_neuron_2018/alignments/mettl3cko_IP_2.star.sorted.bam,data/engel_neuron_2018/macs2_results2/mettl3cko_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl3cko_input_2,mouse_cortex,cells,Mettl3cKO,uninfected,2,data/engel_neuron_2018/alignments/mettl3cko_input_2.star.sorted.bam,data/engel_neuron_2018/macs2_results2/mettl3cko_2.macs2_peaks.narrowPeak.peaks.bed,input
+mettl3cko_IP_3,mouse_cortex,cells,Mettl3cKO,uninfected,3,data/engel_neuron_2018/alignments/mettl3cko_IP_3.star.sorted.bam,data/engel_neuron_2018/macs2_results2/mettl3cko_3.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl3cko_input_3,mouse_cortex,cells,Mettl3cKO,uninfected,3,data/engel_neuron_2018/alignments/mettl3cko_input_3.star.sorted.bam,data/engel_neuron_2018/macs2_results2/mettl3cko_3.macs2_peaks.narrowPeak.peaks.bed,input

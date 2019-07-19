@@ -1,0 +1,13 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+mock_IP_1,U2OS,cells,control,uninfected,1,data/fustin_circadian_2013/alignments/mock_IP_1.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/mock_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_1,U2OS,cells,control,uninfected,1,data/fustin_circadian_2013/alignments/mock_input_1.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/mock_1.macs2_peaks.narrowPeak.peaks.bed,input
+mock_IP_2,U2OS,cells,control,uninfected,2,data/fustin_circadian_2013/alignments/mock_IP_2.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/mock_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_2,U2OS,cells,control,uninfected,2,data/fustin_circadian_2013/alignments/mock_input_2.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/mock_2.macs2_peaks.narrowPeak.peaks.bed,input
+mock_IP_3,U2OS,cells,control,uninfected,3,data/fustin_circadian_2013/alignments/mock_IP_3.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/mock_3.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_3,U2OS,cells,control,uninfected,3,data/fustin_circadian_2013/alignments/mock_input_3.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/mock_3.macs2_peaks.narrowPeak.peaks.bed,input
+daa_IP_1,U2OS,cells,DAA,uninfected,1,data/fustin_circadian_2013/alignments/daa_IP_1.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/daa_1.macs2_peaks.narrowPeak.peaks.bed,IP
+daa_input_1,U2OS,cells,DAA,uninfected,1,data/fustin_circadian_2013/alignments/daa_input_1.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/daa_1.macs2_peaks.narrowPeak.peaks.bed,input
+daa_IP_2,U2OS,cells,DAA,uninfected,2,data/fustin_circadian_2013/alignments/daa_IP_2.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/daa_2.macs2_peaks.narrowPeak.peaks.bed,IP
+daa_input_2,U2OS,cells,DAA,uninfected,2,data/fustin_circadian_2013/alignments/daa_input_2.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/daa_2.macs2_peaks.narrowPeak.peaks.bed,input
+daa_IP_3,U2OS,cells,DAA,uninfected,3,data/fustin_circadian_2013/alignments/daa_IP_3.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/daa_3.macs2_peaks.narrowPeak.peaks.bed,IP
+daa_input_3,U2OS,cells,DAA,uninfected,3,data/fustin_circadian_2013/alignments/daa_input_3.star.sorted.bam,data/fustin_circadian_2013/macs2_results2/daa_3.macs2_peaks.narrowPeak.peaks.bed,input

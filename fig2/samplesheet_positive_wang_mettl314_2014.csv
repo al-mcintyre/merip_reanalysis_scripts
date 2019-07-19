@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+ctrl_IP_1,mESC,cells,control,uninfected,1,data/wang_mettl314_2014/alignments/ctrl_IP_1.star.sorted.bam,data/wang_mettl314_2014/macs2_results/ctrl_1.macs2_peaks.narrowPeak.peaks.bed,IP
+ctrl_input_1,mESC,cells,control,uninfected,1,data/wang_mettl314_2014/alignments/ctrl_input_1.star.sorted.bam,data/wang_mettl314_2014/macs2_results/ctrl_1.macs2_peaks.narrowPeak.peaks.bed,input
+ctrl_IP_2,mESC,cells,control,uninfected,2,data/wang_mettl314_2014/alignments/ctrl_IP_2.star.sorted.bam,data/wang_mettl314_2014/macs2_results/ctrl_2.macs2_peaks.narrowPeak.peaks.bed,IP
+ctrl_input_2,mESC,cells,control,uninfected,2,data/wang_mettl314_2014/alignments/ctrl_input_2.star.sorted.bam,data/wang_mettl314_2014/macs2_results/ctrl_2.macs2_peaks.narrowPeak.peaks.bed,input
+mettl14kd_IP_1,mESC,cells,mettl14kd,uninfected,1,data/wang_mettl314_2014/alignments/mettl14kd_IP_1.star.sorted.bam,data/wang_mettl314_2014/macs2_results/mettl14kd_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl14kd_input_1,mESC,cells,mettl14kd,uninfected,1,data/wang_mettl314_2014/alignments/mettl14kd_input_1.star.sorted.bam,data/wang_mettl314_2014/macs2_results/mettl14kd_1.macs2_peaks.narrowPeak.peaks.bed,input
+mettl14kd_IP_2,mESC,cells,mettl14kd,uninfected,2,data/wang_mettl314_2014/alignments/mettl14kd_IP_2.star.sorted.bam,data/wang_mettl314_2014/macs2_results/mettl14kd_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl14kd_input_2,mESC,cells,mettl14kd,uninfected,2,data/wang_mettl314_2014/alignments/mettl14kd_input_2.star.sorted.bam,data/wang_mettl314_2014/macs2_results/mettl14kd_2.macs2_peaks.narrowPeak.peaks.bed,input

@@ -1,0 +1,25 @@
+cell_line directory experiment_label species baseline readlen year
+HEK293T meyer_original_2012 Meyer hg38 hek293T 50 2012
+HEK293T schwartz_various_2014 Schwartz hg38 hek293_siCTRL 60 2014
+HEK293T lichinchi_zikv_2016 Lichinchi(b) hg38 mock 50 2016b
+HepG2 dominissini_stresses_2012 Dominissini hg38 untreated 36 2012
+HepG2 huang_mettl14_2018 Huang hg38 control 50 2018
+HepG2 yu_mettl3_2018 Yu hg38 siControl 50 2018
+MEF schwartz_various_2014 Schwartz mm10 mouse_shGFP 60 2014
+MEF zhou_heatshock_2015 Zhou mm10 untreated 48 2015
+MEF geula_development_2015 Geula mm10 MEF 50 2015
+mESC batista_mettl3_2014 Batista mm10 wt 36 2014
+mESC wang_mettl314_2014 Wang mm10 ctrl 100 2014
+mESC chen_mirna_2015 Chen mm10 mouse_ESC 100 2015
+mESC geula_development_2015 Geula mm10 mESC 50 2015
+mESC wen_zc3h13_2018 Wen mm10 mESC 51 2018
+A549 schwartz_various_2014 Schwartz hg38 a549_siCTRL 60 2014
+iSLK.ORF50 tan_kshv_2018 Tan hg38 human_iSLK_mock 51 2018
+MSC tan_kshv_2018 Tan hg38 human_MSC_mock 51 2018
+TIME tan_kshv_2018 Tan hg38 human_TIME_mock 51 2018
+Jurkat_CD4 tirumuru_hiv_2016 Tirumuru hg38 jurkat_mock 50 2016
+primary_CD4 tirumuru_hiv_2016 Tirumuru hg38 cd4_mock 50 2016
+MT_CD4 lichinchi_hiv_2016 Lichinchi(a) hg38 mock 51 2016a
+A549 lin_translation_2016 Lin hg38 a549 50 2016
+H1299 lin_translation_2016 Lin hg38 h1299 50 2016
+

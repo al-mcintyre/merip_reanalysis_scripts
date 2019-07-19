@@ -1,0 +1,10 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+mock_IP_1,CD4,cells,mock,uninfected,1,data/hesser_kshv_2018/alignments/mock_IP_1.star.sorted.bam,data/hesser_kshv_2018/macs2_results/mock_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_1,CD4,cells,mock,uninfected,1,data/hesser_kshv_2018/alignments/mock_input_1.star.sorted.bam,data/hesser_kshv_2018/macs2_results/mock_1.macs2_peaks.narrowPeak.peaks.bed,input
+mock_IP_2,CD4,cells,mock,uninfected,2,data/hesser_kshv_2018/alignments/mock_IP_2.star.sorted.bam,data/hesser_kshv_2018/macs2_results/mock_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mock_input_2,CD4,cells,mock,uninfected,2,data/hesser_kshv_2018/alignments/mock_input_2.star.sorted.bam,data/hesser_kshv_2018/macs2_results/mock_2.macs2_peaks.narrowPeak.peaks.bed,input
+kshv_IP_1,CD4,cells,kshv,infected,1,data/hesser_kshv_2018/alignments/kshv_IP_1.star.sorted.bam,data/hesser_kshv_2018/macs2_results/kshv_1.macs2_peaks.narrowPeak.peaks.bed,IP
+kshv_input_1,CD4,cells,kshv,infected,1,data/hesser_kshv_2018/alignments/kshv_input_1.star.sorted.bam,data/hesser_kshv_2018/macs2_results/kshv_1.macs2_peaks.narrowPeak.peaks.bed,input
+kshv_IP_2,CD4,cells,kshv,infected,2,data/hesser_kshv_2018/alignments/kshv_IP_2.star.sorted.bam,data/hesser_kshv_2018/macs2_results/kshv_2.macs2_peaks.narrowPeak.peaks.bed,IP
+kshv_input_2,CD4,cells,kshv,infected,2,data/hesser_kshv_2018/alignments/kshv_input_2.star.sorted.bam,data/hesser_kshv_2018/macs2_results/kshv_2.macs2_peaks.narrowPeak.peaks.bed,input
+

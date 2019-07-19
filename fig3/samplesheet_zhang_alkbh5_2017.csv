@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+control_IP_1,GSC-11,cells,control,uninfected,1,data/zhang_alkbh5_2017/alignments/control_IP_1.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/control_1.macs2_peaks.narrowPeak.peaks.bed,IP
+control_input_1,GSC-11,cells,control,uninfected,1,data/zhang_alkbh5_2017/alignments/control_input_1.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/control_1.macs2_peaks.narrowPeak.peaks.bed,input
+control_IP_2,GSC-11,cells,control,uninfected,2,data/zhang_alkbh5_2017/alignments/control_IP_2.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/control_2.macs2_peaks.narrowPeak.peaks.bed,IP
+control_input_2,GSC-11,cells,control,uninfected,2,data/zhang_alkbh5_2017/alignments/control_input_2.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/control_2.macs2_peaks.narrowPeak.peaks.bed,input
+shALKBH5_IP_1,GSC-11,cells,shALKBH5,infected,1,data/zhang_alkbh5_2017/alignments/shALKBH5_IP_1.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/shALKBH5_1.macs2_peaks.narrowPeak.peaks.bed,IP
+shALKBH5_input_1,GSC-11,cells,shALKBH5,infected,1,data/zhang_alkbh5_2017/alignments/shALKBH5_input_1.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/shALKBH5_1.macs2_peaks.narrowPeak.peaks.bed,input
+shALKBH5_IP_2,GSC-11,cells,shALKBH5,infected,2,data/zhang_alkbh5_2017/alignments/shALKBH5_IP_2.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/shALKBH5_2.macs2_peaks.narrowPeak.peaks.bed,IP
+shALKBH5_input_2,GSC-11,cells,shALKBH5,infected,2,data/zhang_alkbh5_2017/alignments/shALKBH5_input_2.star.sorted.bam,data/zhang_alkbh5_2017/macs2_results2/shALKBH5_2.macs2_peaks.narrowPeak.peaks.bed,input

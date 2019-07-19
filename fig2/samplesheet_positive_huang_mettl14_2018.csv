@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+control_IP_1,HepG2,cells,control,uninfected,1,data/huang_mettl14_2018/alignments/control_IP_1.star.sorted.bam,data/huang_mettl14_2018/macs2_results/control_1.macs2_peaks.narrowPeak.peaks.bed,IP
+control_input_1,HepG2,cells,control,uninfected,1,data/huang_mettl14_2018/alignments/control_input_1.star.sorted.bam,data/huang_mettl14_2018/macs2_results/control_1.macs2_peaks.narrowPeak.peaks.bed,input
+control_IP_2,HepG2,cells,control,uninfected,2,data/huang_mettl14_2018/alignments/control_IP_2.star.sorted.bam,data/huang_mettl14_2018/macs2_results/control_2.macs2_peaks.narrowPeak.peaks.bed,IP
+control_input_2,HepG2,cells,control,uninfected,2,data/huang_mettl14_2018/alignments/control_input_2.star.sorted.bam,data/huang_mettl14_2018/macs2_results/control_2.macs2_peaks.narrowPeak.peaks.bed,input
+shMETTL14_IP_1,HepG2,cells,shMETTL14,uninfected,1,data/huang_mettl14_2018/alignments/shMETTL14_IP_1.star.sorted.bam,data/huang_mettl14_2018/macs2_results/shMETTL14_1.macs2_peaks.narrowPeak.peaks.bed,IP
+shMETTL14_input_1,HepG2,cells,shMETTL14,uninfected,1,data/huang_mettl14_2018/alignments/shMETTL14_input_1.star.sorted.bam,data/huang_mettl14_2018/macs2_results/shMETTL14_1.macs2_peaks.narrowPeak.peaks.bed,input
+shMETTL14_IP_2,HepG2,cells,shMETTL14,uninfected,2,data/huang_mettl14_2018/alignments/shMETTL14_IP_2.star.sorted.bam,data/huang_mettl14_2018/macs2_results/shMETTL14_2.macs2_peaks.narrowPeak.peaks.bed,IP
+shMETTL14_input_2,HepG2,cells,shMETTL14,uninfected,2,data/huang_mettl14_2018/alignments/shMETTL14_input_2.star.sorted.bam,data/huang_mettl14_2018/macs2_results/shMETTL14_2.macs2_peaks.narrowPeak.peaks.bed,input

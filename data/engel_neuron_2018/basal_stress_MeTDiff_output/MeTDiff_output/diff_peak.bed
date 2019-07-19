@@ -1,0 +1,3 @@
+# chr	chromStart	chromEnd	name	score	strand	thickStart	thickEnd	itemRgb	blockCount	blockSizes	blockStarts
+chr8	22411410	22411461	ENSMUSG00000031533.4	3.3e-189	+	22411410	22411461	0	1	51,	0
+chr9	22243106	22243206	ENSMUSG00000057982.8	3.3e-189	+	22243106	22243206	0	1	100,	0

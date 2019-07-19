@@ -1,0 +1,11 @@
+study control_type condition reps control stimulus species fraglen readlen pe
+engel_neuron_2018 negative MouseCortex 7 basal basal mm10 90 90 TRUE
+neg_control_mocks negative Huh7 12 mock mock hg38 80 50 FALSE
+fustin_circadian_2013 positive DAA 3 mock daa hg38 200 37 FALSE
+hess_ftoko_2013 positive FtoKO 3 wt FtoKO mm10 100 49 FALSE
+batista_mettl3_2014 positive Mettl3KO 2 wt mettl3ko mm10 100 62 FALSE
+schwartz_various_2014 positive shWTAP 2 shGFP shWTAP hg38 100 30 TRUE
+wang_mettl314_2014 positive shMettl14 2 ctrl mettl14kd mm10 100 95 FALSE
+li_leukemia_2017 positive FTOoe 2 mock fto hg38 100 50 FALSE
+yu_mettl3_2018 positive siMETTL3 2 siControl siMETTL3 hg38 100 49 FALSE
+huang_mettl14_2018 positive shMETTL14 2 control shMETTL14 hg38 100 50 FALSE

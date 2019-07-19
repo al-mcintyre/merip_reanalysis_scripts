@@ -1,0 +1,9 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
+ctrl_IP_1,MOLM13,cells,control,uninfected,1,data/barbieri_leukemia_2017/alignments/ctrl_IP_1.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/ctrl_1.macs2_peaks.narrowPeak.peaks.bed,IP
+ctrl_input_1,MOLM13,cells,control,uninfected,1,data/barbieri_leukemia_2017/alignments/ctrl_input_1.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/ctrl_1.macs2_peaks.narrowPeak.peaks.bed,input
+ctrl_IP_2,MOLM13,cells,control,uninfected,2,data/barbieri_leukemia_2017/alignments/ctrl_IP_2.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/ctrl_2.macs2_peaks.narrowPeak.peaks.bed,IP
+ctrl_input_2,MOLM13,cells,control,uninfected,2,data/barbieri_leukemia_2017/alignments/ctrl_input_2.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/ctrl_2.macs2_peaks.narrowPeak.peaks.bed,input
+mettl3kd1_IP_1,MOLM13,cells,mettl3kd1,uninfected,1,data/barbieri_leukemia_2017/alignments/mettl3kd1_IP_1.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/mettl3kd1_1.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl3kd1_input_1,MOLM13,cells,mettl3kd1,uninfected,1,data/barbieri_leukemia_2017/alignments/mettl3kd1_input_1.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/mettl3kd1_1.macs2_peaks.narrowPeak.peaks.bed,input
+mettl3kd1_IP_2,MOLM13,cells,mettl3kd1,uninfected,2,data/barbieri_leukemia_2017/alignments/mettl3kd1_IP_2.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/mettl3kd1_2.macs2_peaks.narrowPeak.peaks.bed,IP
+mettl3kd1_input_2,MOLM13,cells,mettl3kd1,uninfected,2,data/barbieri_leukemia_2017/alignments/mettl3kd1_input_2.star.sorted.bam,data/barbieri_leukemia_2017/macs2_results/mettl3kd1_2.macs2_peaks.narrowPeak.peaks.bed,input

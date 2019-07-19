@@ -1,0 +1,8 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,ControlID,Peaks,PeakCaller
+basal_1_IP,mouse_cortex,none,basal,unstressed,1,basal_1_input,data/engel_neuron_2018/macs2_results/basal_1.macs2_peaks.narrowPeak.peaks.bed,macs
+basal_2_IP,mouse_cortex,none,basal,unstressed,2,basal_2_input,data/engel_neuron_2018/macs2_results/basal_2.macs2_peaks.narrowPeak.peaks.bed,macs
+basal_3_IP,mouse_cortex,none,basal,unstressed,3,basal_3_input,data/engel_neuron_2018/macs2_results/basal_3.macs2_peaks.narrowPeak.peaks.bed,macs
+basal_4_IP,mouse_cortex,none,basal,unstressed,4,basal_4_input,data/engel_neuron_2018/macs2_results/basal_4.macs2_peaks.narrowPeak.peaks.bed,macs
+basal_5_IP,mouse_cortex,none,basal,unstressed,5,basal_5_input,data/engel_neuron_2018/macs2_results/basal_5.macs2_peaks.narrowPeak.peaks.bed,macs
+basal_6_IP,mouse_cortex,none,basal,unstressed,6,basal_6_input,data/engel_neuron_2018/macs2_results/basal_6.macs2_peaks.narrowPeak.peaks.bed,macs
+basal_7_IP,mouse_cortex,none,basal,unstressed,7,basal_7_input,data/engel_neuron_2018/macs2_results/basal_7.macs2_peaks.narrowPeak.peaks.bed,macs
