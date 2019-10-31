@@ -1,30 +1,38 @@
-#for SE reads, assuming illumina adapters add ~120 bases to bioanalyzer trace - guessing here total of 180 would be approximately correct (50 bp reads)
-indir=$1 #experiment directory
-kallindex='' #location of kallisto index .idx file
+#for SE reads, assuming illumina adapters add ~120 bases to bioanalyzer trace - 
+DIR=$1
+COND=$2
+FRAGLEN=$3
+IDX=$4
+REPS=$5
+NUM_THREADS=$6
+FIG=$7
 
-cd $indir
-echo $indir
+cd $DIR
+echo $DIR
 if [ ! -d kallisto_results ]; then 
     mkdir kallisto_results
 fi
-for fi in fastqs/*input*trim*.gz; do
-    COND=$(basename $fi)
-    COND=${COND%_IP*}
-    COND=${COND%_input*}
-    echo $fi $COND
-    for REP in 1 2 3 4 5 6 7 ; do
-        if [ -f fastqs/${COND}_input_${REP}.fastq.gz ]; then
-            sample=${COND}_${REP}
-            if [ ! -d kallisto_results/$sample.kallisto ]; then
-                echo fastqs/${COND}_input_${REP}.fastq.gz
-                kallisto quant -i $kallindex -o kallisto_results/$sample.kallisto --single -l 180 -s 20 fastqs/${COND}_input_${REP}.trim.fastq.gz
+
+if [ "$FIG" == "xiao" ]; then
+    COND=$(echo $COND | cut -d'_' -f1)
+    REP=$(echo $COND | cut -d'_' -f2)
+fi
+
+for fi in fastqs/$COND*input*trim*.gz; do
+    echo $fi $IDX
+    for REP in $(seq 1 $REPS); do
+        if [ -f fastqs/${COND}_input_${REP}.trim.fastq.gz ]; then
+            SAMPLE=${COND}_${REP}
+            if [ ! -d kallisto_results/$SAMPLE.kallisto ]; then
+                echo 'running kallisto for ' fastqs/${COND}_input_${REP}.fastq.gz
+                kallisto quant -t $NUM_THREADS -i $IDX -o kallisto_results/$SAMPLE.kallisto --single -l $FRAGLEN -s 20 fastqs/${COND}_input_${REP}.trim.fastq.gz 
             fi
         fi
-        if [ -f fastqs/${COND}_input_${REP}_R1.fastq.gz ]; then
-            sample=${COND}_${REP}
-            if [ ! -d kallisto_results/$sample.kallisto ]; then
-                echo fastqs/${COND}_input_${REP}_R1.trim.fastq.gz
-                kallisto quant -i $kallindex -o kallisto_results/$sample.kallisto fastqs/${COND}_input_${REP}_R1.trim.fastq.gz fastqs/${COND}_input_${REP}_R2.trim.fastq.gz 
+        if [ -f fastqs/${COND}_input_${REP}_R1.trim.fastq.gz ]; then
+            SAMPLE=${COND}_${REP}
+            if [ ! -d kallisto_results/$SAMPLE.kallisto ]; then
+                echo 'running kallisto for ' fastqs/${COND}_input_${REP}_R1.trim.fastq.gz
+                kallisto quant -t $NUM_THREADS -i $IDX -o kallisto_results/$SAMPLE.kallisto fastqs/${COND}_input_${REP}_R1.trim.fastq.gz fastqs/${COND}_input_${REP}_R2.trim.fastq.gz 
             fi
         fi 
     done
