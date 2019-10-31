@@ -1,9 +1,0 @@
-SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
-mock_IP_1,MONOMAC-6,cells,mock,uninfected,1,data/li_leukemia_2017/alignments/mock_IP_1.star.sorted.bam,data/li_leukemia_2017/macs2_results/mock_1.macs2_peaks.narrowPeak.peaks.bed,IP
-mock_input_1,MONOMAC-6,cells,mock,uninfected,1,data/li_leukemia_2017/alignments/mock_input_1.star.sorted.bam,data/li_leukemia_2017/macs2_results/mock_1.macs2_peaks.narrowPeak.peaks.bed,input
-mock_IP_2,MONOMAC-6,cells,mock,uninfected,2,data/li_leukemia_2017/alignments/mock_IP_2.star.sorted.bam,data/li_leukemia_2017/macs2_results/mock_2.macs2_peaks.narrowPeak.peaks.bed,IP
-mock_input_2,MONOMAC-6,cells,mock,uninfected,2,data/li_leukemia_2017/alignments/mock_input_2.star.sorted.bam,data/li_leukemia_2017/macs2_results/mock_2.macs2_peaks.narrowPeak.peaks.bed,input
-fto_IP_1,MONOMAC-6,cells,fto,uninfected,1,data/li_leukemia_2017/alignments/fto_IP_1.star.sorted.bam,data/li_leukemia_2017/macs2_results/fto_1.macs2_peaks.narrowPeak.peaks.bed,IP
-fto_input_1,MONOMAC-6,cells,fto,uninfected,1,data/li_leukemia_2017/alignments/fto_input_1.star.sorted.bam,data/li_leukemia_2017/macs2_results/fto_1.macs2_peaks.narrowPeak.peaks.bed,input
-fto_IP_2,MONOMAC-6,cells,fto,uninfected,2,data/li_leukemia_2017/alignments/fto_IP_2.star.sorted.bam,data/li_leukemia_2017/macs2_results/fto_2.macs2_peaks.narrowPeak.peaks.bed,IP
-fto_input_2,MONOMAC-6,cells,fto,uninfected,2,data/li_leukemia_2017/alignments/fto_input_2.star.sorted.bam,data/li_leukemia_2017/macs2_results/fto_2.macs2_peaks.narrowPeak.peaks.bed,input

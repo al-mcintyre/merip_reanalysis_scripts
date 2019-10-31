@@ -1,2 +1,0 @@
-chr	chromStart	chromEnd	name	score	strand	thickStart	thickEnd	itemRgb	blockCount	blockSizes	blockStarts	lg.p	lg.fdr	fold_enrchment	diff.lg.fdr	diff.lg.p	diff.log2.fc
-chr8	27123956	27124253	ENSMUSG00000031487.5	7.9e-15	-	27123956	27124253	0	1	297,	0	-14.1	-13.5	8.44	-1.4	-5.9	0.324

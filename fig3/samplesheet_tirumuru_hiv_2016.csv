@@ -1,9 +1,0 @@
-SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
-jurkat_mock_IP_1,jurkat,cells,jurkat_mock,uninfected,1,data/tirumuru_hiv_2016/alignments/jurkat_mock_IP_1.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_mock_1.macs2_peaks.narrowPeak.peaks.bed,IP
-jurkat_mock_input_1,jurkat,cells,jurkat_mock,uninfected,1,data/tirumuru_hiv_2016/alignments/jurkat_mock_input_1.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_mock_1.macs2_peaks.narrowPeak.peaks.bed,input
-jurkat_mock_IP_2,jurkat,cells,jurkat_mock,uninfected,2,data/tirumuru_hiv_2016/alignments/jurkat_mock_IP_2.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_mock_2.macs2_peaks.narrowPeak.peaks.bed,IP
-jurkat_mock_input_2,jurkat,cells,jurkat_mock,uninfected,2,data/tirumuru_hiv_2016/alignments/jurkat_mock_input_2.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_mock_2.macs2_peaks.narrowPeak.peaks.bed,input
-jurkat_hiv_IP_1,jurkat,cells,jurkat_hiv,infected,1,data/tirumuru_hiv_2016/alignments/jurkat_hiv_IP_1.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_hiv_1.macs2_peaks.narrowPeak.peaks.bed,IP
-jurkat_hiv_input_1,jurkat,cells,jurkat_hiv,infected,1,data/tirumuru_hiv_2016/alignments/jurkat_hiv_input_1.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_hiv_1.macs2_peaks.narrowPeak.peaks.bed,input
-jurkat_hiv_IP_2,jurkat,cells,jurkat_hiv,infected,2,data/tirumuru_hiv_2016/alignments/jurkat_hiv_IP_2.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_hiv_2.macs2_peaks.narrowPeak.peaks.bed,IP
-jurkat_hiv_input_2,jurkat,cells,jurkat_hiv,infected,2,data/tirumuru_hiv_2016/alignments/jurkat_hiv_input_2.star.sorted.bam,data/tirumuru_hiv_2016/macs2_results/jurkat_hiv_2.macs2_peaks.narrowPeak.peaks.bed,input

@@ -1,9 +1,0 @@
-SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
-siControl_IP_1,HepG2,cells,siControl,uninfected,1,data/yu_mettl3_2018/alignments/siControl_IP_1.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siControl_1.macs2_peaks.narrowPeak.peaks.bed,IP
-siControl_input_1,HepG2,cells,siControl,uninfected,1,data/yu_mettl3_2018/alignments/siControl_input_1.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siControl_1.macs2_peaks.narrowPeak.peaks.bed,input
-siControl_IP_2,HepG2,cells,siControl,uninfected,2,data/yu_mettl3_2018/alignments/siControl_IP_2.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siControl_2.macs2_peaks.narrowPeak.peaks.bed,IP
-siControl_input_2,HepG2,cells,siControl,uninfected,2,data/yu_mettl3_2018/alignments/siControl_input_2.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siControl_2.macs2_peaks.narrowPeak.peaks.bed,input
-siMETTL3_IP_1,HepG2,cells,siMETTL3,uninfected,1,data/yu_mettl3_2018/alignments/siMETTL3_IP_1.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siMETTL3_1.macs2_peaks.narrowPeak.peaks.bed,IP
-siMETTL3_input_1,HepG2,cells,siMETTL3,uninfected,1,data/yu_mettl3_2018/alignments/siMETTL3_input_1.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siMETTL3_1.macs2_peaks.narrowPeak.peaks.bed,input
-siMETTL3_IP_2,HepG2,cells,siMETTL3,uninfected,2,data/yu_mettl3_2018/alignments/siMETTL3_IP_2.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siMETTL3_2.macs2_peaks.narrowPeak.peaks.bed,IP
-siMETTL3_input_2,HepG2,cells,siMETTL3,uninfected,2,data/yu_mettl3_2018/alignments/siMETTL3_input_2.star.sorted.bam,data/yu_mettl3_2018/macs2_results/siMETTL3_2.macs2_peaks.narrowPeak.peaks.bed,input

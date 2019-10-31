@@ -1,5 +1,0 @@
-study condition reps control stimulus species readlen fraglen pe
-hesser_kshv_2018 KSHV 2 mock kshv hg38 48 100 FALSE
-tan_kshv_2018 KSHV 3 human_iSLK_mock human_iSLK_kshv_48h hg38 50 100 FALSE
-tan_kshv_2018a KSHV 3 human_TREX_latent human_TREX_kshv_48h hg38 50 100 FALSE
-tan_kshv_2018b KSHV 3 human_iSLK_latent human_iSLK_kshv_48h hg38 50 100 FALSE

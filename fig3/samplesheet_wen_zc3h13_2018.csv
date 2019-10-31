@@ -1,9 +1,0 @@
-SampleID,Tissue,Factor,Condition,Treatment,Replicate,bam,Peaks,IP
-cytoplasmic_IP_1,mESC,cells,control,infected,1,data/wen_zc3h13_2018/alignments/cytoplasmic_IP_1.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/cytoplasmic_1.macs2_peaks.narrowPeak.peaks.bed,IP
-cytoplasmic_input_1,mESC,cells,control,infected,1,data/wen_zc3h13_2018/alignments/cytoplasmic_input_1.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/cytoplasmic_1.macs2_peaks.narrowPeak.peaks.bed,input
-cytoplasmic_IP_2,mESC,cells,control,infected,2,data/wen_zc3h13_2018/alignments/cytoplasmic_IP_2.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/cytoplasmic_2.macs2_peaks.narrowPeak.peaks.bed,IP
-cytoplasmic_input_2,mESC,cells,control,infected,2,data/wen_zc3h13_2018/alignments/cytoplasmic_input_2.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/cytoplasmic_2.macs2_peaks.narrowPeak.peaks.bed,input
-zc3h13kd_cytoplasmic_IP_1,mESC,cells,siZc3h13,infected,1,data/wen_zc3h13_2018/alignments/zc3h13kd_cytoplasmic_IP_1.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/zc3h13kd_cytoplasmic_1.macs2_peaks.narrowPeak.peaks.bed,IP
-zc3h13kd_cytoplasmic_input_1,mESC,cells,siZc3h13,infected,1,data/wen_zc3h13_2018/alignments/zc3h13kd_cytoplasmic_input_1.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/zc3h13kd_cytoplasmic_1.macs2_peaks.narrowPeak.peaks.bed,input
-zc3h13kd_cytoplasmic_IP_2,mESC,cells,siZc3h13,infected,2,data/wen_zc3h13_2018/alignments/zc3h13kd_cytoplasmic_IP_2.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/zc3h13kd_cytoplasmic_2.macs2_peaks.narrowPeak.peaks.bed,IP
-zc3h13kd_cytoplasmic_input_2,mESC,cells,siZc3h13,infected,2,data/wen_zc3h13_2018/alignments/zc3h13kd_cytoplasmic_input_2.star.sorted.bam,data/wen_zc3h13_2018/macs2_results2/zc3h13kd_cytoplasmic_2.macs2_peaks.narrowPeak.peaks.bed,input
