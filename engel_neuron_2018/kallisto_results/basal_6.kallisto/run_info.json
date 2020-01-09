@@ -1,0 +1,13 @@
+{
+	"n_targets": 137767,
+	"n_bootstraps": 0,
+	"n_processed": 29813973,
+	"n_pseudoaligned": 19219833,
+	"n_unique": 6388828,
+	"p_pseudoaligned": 64.5,
+	"p_unique": 21.4,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Tue Jan 15 12:34:51 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/users/abm237/REFS/gencode_mm10/mm10.kallisto.idx -o kallisto_results/basal_6.kallisto fastqs/basal_input_6_R1.trim.fastq.gz fastqs/basal_input_6_R2.trim.fastq.gz"
+}

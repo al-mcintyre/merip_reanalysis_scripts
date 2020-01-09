@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 39704970,
+	"n_pseudoaligned": 21005015,
+	"n_unique": 6418456,
+	"p_pseudoaligned": 52.9,
+	"p_unique": 16.2,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Oct 11 03:30:22 2019",
+	"call": "kallisto quant -t 16 -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/liver19_1.kallisto fastqs/liver19_input_1_R1.trim.fastq.gz fastqs/liver19_input_1_R2.trim.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 45711289,
+	"n_pseudoaligned": 18139308,
+	"n_unique": 6672160,
+	"p_pseudoaligned": 39.7,
+	"p_unique": 14.6,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Oct 11 04:29:20 2019",
+	"call": "kallisto quant -t 16 -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/stomach23_1.kallisto fastqs/stomach23_input_1_R1.trim.fastq.gz fastqs/stomach23_input_1_R2.trim.fastq.gz"
+}

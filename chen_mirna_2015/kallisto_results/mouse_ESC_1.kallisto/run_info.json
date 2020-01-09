@@ -1,0 +1,13 @@
+{
+	"n_targets": 137767,
+	"n_bootstraps": 0,
+	"n_processed": 61540935,
+	"n_pseudoaligned": 54642856,
+	"n_unique": 14380660,
+	"p_pseudoaligned": 88.8,
+	"p_unique": 23.4,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Sat Oct 12 13:51:23 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/users/abm237/REFS/gencode_mm10/mm10.kallisto.idx -o kallisto_results/mouse_ESC_1.kallisto --single -l 100 -s 20 fastqs/mouse_ESC_input_1.trim.fastq.gz"
+}

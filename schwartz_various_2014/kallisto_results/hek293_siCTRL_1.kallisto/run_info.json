@@ -1,0 +1,13 @@
+{
+	"n_targets": 206694,
+	"n_bootstraps": 0,
+	"n_processed": 5644013,
+	"n_pseudoaligned": 4004946,
+	"n_unique": 820646,
+	"p_pseudoaligned": 71.0,
+	"p_unique": 14.5,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Tue Jan 22 09:00:12 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/users/abm237/REFS/gencode_hg38/hg38.kmer29.kallisto.idx -o kallisto_results/hek293_siCTRL_1.kallisto fastqs/hek293_siCTRL_input_1_R1.trim.fastq.gz fastqs/hek293_siCTRL_input_1_R2.trim.fastq.gz"
+}

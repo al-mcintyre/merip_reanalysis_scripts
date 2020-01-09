@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 59240147,
+	"n_pseudoaligned": 39498852,
+	"n_unique": 7302476,
+	"p_pseudoaligned": 66.7,
+	"p_unique": 12.3,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Sat Oct 12 14:46:03 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/h1299_1.kallisto --single -l 100 -s 20 fastqs/h1299_input_1.trim.fastq.gz"
+}

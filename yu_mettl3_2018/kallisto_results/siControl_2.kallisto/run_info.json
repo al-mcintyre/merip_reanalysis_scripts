@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 37225022,
+	"n_pseudoaligned": 31444040,
+	"n_unique": 5819733,
+	"p_pseudoaligned": 84.5,
+	"p_unique": 15.6,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Oct 11 12:19:42 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/siControl_2.kallisto --single -l 100 -s 20 fastqs/siControl_input_2.trim.fastq.gz"
+}

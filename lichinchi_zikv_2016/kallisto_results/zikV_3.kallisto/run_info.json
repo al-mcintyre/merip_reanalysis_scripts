@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 22956849,
+	"n_pseudoaligned": 10815495,
+	"n_unique": 2729417,
+	"p_pseudoaligned": 47.1,
+	"p_unique": 11.9,
+	"kallisto_version": "0.45.1",
+	"index_version": 10,
+	"start_time": "Wed May 22 01:00:45 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/zikV_3.kallisto --single -l 180 -s 20 fastqs/zikV_input_1.fastq.gz"
+}

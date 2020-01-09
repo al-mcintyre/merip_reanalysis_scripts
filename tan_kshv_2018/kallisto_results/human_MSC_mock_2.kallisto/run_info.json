@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 43942998,
+	"n_pseudoaligned": 26310646,
+	"n_unique": 5869282,
+	"p_pseudoaligned": 59.9,
+	"p_unique": 13.4,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Sat Oct 12 13:03:23 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/human_MSC_mock_2.kallisto --single -l 100 -s 20 fastqs/human_MSC_mock_input_2.trim.fastq.gz"
+}

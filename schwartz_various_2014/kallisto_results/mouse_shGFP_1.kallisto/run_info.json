@@ -1,0 +1,13 @@
+{
+	"n_targets": 137767,
+	"n_bootstraps": 0,
+	"n_processed": 11156293,
+	"n_pseudoaligned": 2831584,
+	"n_unique": 769850,
+	"p_pseudoaligned": 25.4,
+	"p_unique": 6.9,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Tue Jan 22 12:13:45 2019",
+	"call": "kallisto quant -i /athena/masonlab/scratch/users/abm237/REFS/gencode_mm10/mm10.kallisto.idx -o kallisto_results/mouse_shGFP_1.kallisto fastqs/mouse_shGFP_input_1_R1.trim.fastq.gz fastqs/mouse_shGFP_input_1_R2.trim.fastq.gz"
+}

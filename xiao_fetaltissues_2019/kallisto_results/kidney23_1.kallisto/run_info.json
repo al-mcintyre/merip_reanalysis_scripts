@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 40443109,
+	"n_pseudoaligned": 13376046,
+	"n_unique": 5350047,
+	"p_pseudoaligned": 33.1,
+	"p_unique": 13.2,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 14 16:34:12 2019",
+	"call": "kallisto quant -t 16 -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/kidney23_1.kallisto fastqs/kidney23_input_1_R1.trim.fastq.gz fastqs/kidney23_input_1_R2.trim.fastq.gz"
+}

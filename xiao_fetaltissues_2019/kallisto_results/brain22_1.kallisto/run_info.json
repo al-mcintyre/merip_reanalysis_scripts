@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 50856966,
+	"n_pseudoaligned": 16353888,
+	"n_unique": 6516491,
+	"p_pseudoaligned": 32.2,
+	"p_unique": 12.8,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Oct 11 01:52:26 2019",
+	"call": "kallisto quant -t 16 -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/brain22_1.kallisto fastqs/brain22_input_1_R1.trim.fastq.gz fastqs/brain22_input_1_R2.trim.fastq.gz"
+}

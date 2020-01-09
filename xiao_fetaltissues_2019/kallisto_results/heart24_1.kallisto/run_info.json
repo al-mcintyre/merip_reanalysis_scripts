@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 39923911,
+	"n_pseudoaligned": 17400315,
+	"n_unique": 6419021,
+	"p_pseudoaligned": 43.6,
+	"p_unique": 16.1,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Oct 11 03:01:39 2019",
+	"call": "kallisto quant -t 16 -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/heart24_1.kallisto fastqs/heart24_input_1_R1.trim.fastq.gz fastqs/heart24_input_1_R2.trim.fastq.gz"
+}

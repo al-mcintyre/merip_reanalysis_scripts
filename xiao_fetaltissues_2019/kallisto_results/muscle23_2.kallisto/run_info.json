@@ -1,0 +1,13 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 0,
+	"n_processed": 38513108,
+	"n_pseudoaligned": 17288610,
+	"n_unique": 5844073,
+	"p_pseudoaligned": 44.9,
+	"p_unique": 15.2,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Oct 11 04:02:43 2019",
+	"call": "kallisto quant -t 16 -i /athena/masonlab/scratch/databases/hg38/kallisto/Homo_sapiens.GRCh38.rel79.cdna.all.kallidx -o kallisto_results/muscle23_2.kallisto fastqs/muscle23_input_2_R1.trim.fastq.gz fastqs/muscle23_input_2_R2.trim.fastq.gz"
+}
