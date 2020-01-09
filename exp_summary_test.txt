@@ -1,2 +1,0 @@
-study label species cell_line control_type control stimulus readlen fraglen pe reps reported_peaks year fig
-meyer_original_2012 Meyer hg38 HEK293T NA hek293T NA 50 100 FALSE 3 NA 2012 1d
